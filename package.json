@@ -1,0 +1,11 @@
+{
+  "name": "labmm",
+  "version": "1.0.0",
+  "description": "API for managing MM Computer's Lab",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Soleh",
+  "license": "ISC"
+}
